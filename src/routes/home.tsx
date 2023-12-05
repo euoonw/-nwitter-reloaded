@@ -10,7 +10,7 @@ export default function Home() {
 
   return (
     <h1>
-      Home !!!!!! 메인페이지입니다
+      Home !!!!!! 메인페이지입니다...
       <button onClick={logOut}>Log Out</button>
     </h1>
   );
